@@ -162,7 +162,7 @@ The purpose of this guide is to explain the special aspects of OpenStack on Crow
 
 The focus of this guide is the use of Crowbar, not OpenStack.  While Crowbar includes substantial components to assist in the deployment of OpenStack, its operational aspects are independent of OpenStack.
 
-> #####![openstack.png](https://raw.github.com/srinivasgowda/cb_doc_draft/master/pics/openstack.png "openstack.png") For detailed operational support for OpenStack, visit the OpenStack documentation web site  
+> #####![openstack.png](https://raw.github.com/srinivasgowda/cb_doc_draft/master/pics/openstack.png "openstack.png") For detailed operational support for OpenStack, visit the OpenStack documentation web site [http://docs.openstack.org/](http://docs.openstack.org) 
 
 This guide will provide additional information about OpenStack as notes flagged with the OpenStack logo.
 
@@ -815,7 +815,7 @@ from
 [OpenStack Compute][] is open source software designed to provision and manage large networks of virtual machines, creating a redundant and scalable cloud computing platform.  It gives you the software, control panels, and APIs required to orchestrate a cloud, including running instances, managing networks, and controlling access through users and projects. OpenStack Compute strives to be both hardware and hypervisor agnostic, currently supporting a variety of standard hardware configurations and seven major hypervisors.
 
 <table>
-<caption><big><b> Table 7: Nova Barclamp Parameters </big></caption>
+<caption>Table 7: Nova Barclamp Parameters</caption>
 	<tr>
   		<th>Name 					</th>
   		<th>Default				</th>
